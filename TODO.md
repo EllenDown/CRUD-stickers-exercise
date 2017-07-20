@@ -22,7 +22,7 @@ We'll be using:
 * [x] Create a server folder
   * [x] Generate Express App
   * [x] initialize git repo
-* [ ] Create database
+* [x] Create database
 * [x] Initialize knex project
   * [x] Install knex and pg
   * [x] Create knexfile.js
@@ -41,17 +41,17 @@ We'll be using:
     * [x] Run migrations/seeds on test db
 * [x] List all records with GET /api/v1/stickers
     * [x] Add test
-* [ ] Make sure the tests are working!
-* [ ] List all records with GET /api/v1/stickers
-  * [ ] Create query
-  * [ ] Create route
-* [ ] Show one record with GET /api/v1/stickers/:id
-  * [ ] Create query
-  * [ ] Create route
-* [ ] Create a record with POST /api/v1/stickers
-  * [ ] Create route
-  * [ ] Create query
-* [ ] Update a record with PUT /api/v1/stickers/:id
+* [x] Make sure the tests are working!
+* [x] List all records with GET /api/v1/stickers
+  * [x] Create query
+  * [x] Create route
+* [x] Show one record with GET /api/v1/stickers/:id
+  * [x] Create query
+  * [x] Create route
+* [] Create a record with POST /api/v1/stickers
+  * [] Create route
+  * [] Create query
+* [] Update a record with PUT /api/v1/stickers/:id
   * [ ] Create route
   * [ ] Create query
 * [ ] Delete a record with DELETE /api/v1/stickers/:id
